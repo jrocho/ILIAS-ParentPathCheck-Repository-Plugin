@@ -28,7 +28,7 @@ This plugin is mostly intended for administrators and it will also only list all
 Contact
 -------
 
-Send Bugs reports and suggestions to: https://github.com/jrocho/ILIAS-ParentPathCheck-Repository-Plugin/issues
+Send bug reports and suggestions to: https://github.com/jrocho/ILIAS-ParentPathCheck-Repository-Plugin/issues
 
 License
 -------
