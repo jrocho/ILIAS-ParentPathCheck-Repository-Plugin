@@ -1,0 +1,43 @@
+// 
+// English Language File for Parent Path CheckObject Plugin
+//
+
+<!-- language file start -->
+obj_xppc#:#Parent Path Check
+objs_xppc#:#Parent Path Checks
+obj_xppc_duplicate#:#Kopieren
+objs_xppc_duplicate#:#Parent Path Check kopieren
+obj_xppc_select#:#Parent Path Check auswählen
+xppc_add#:#Parent Path Check hinzufügen
+xppc_new#:#Neuen Parent Path Check hinzufügen
+xppc_read#:#Lesenzugriff auf Parent Path Check
+xppc_write#:#Parent Path Check Bearbeiten
+xppc_delete#:#Parent Path Check Löschen
+xppc_visible#:#Parent Path Check is sichtbar
+xppc_edit_permission#:#Rechte Einstellungen ändern
+crs_create_xppc#:#Parent Path Check Anlegen
+grp_create_xppc#:#Parent Path Check Anlegen
+fold_create_xppc#:#Parent Path Check Anlegen
+root_create_xppc#:#Parent Path Check Anlegen
+cat_create_xppc#:#Parent Path Check Anlegen
+content#:#Inhalt
+properties#:#Einstellungen
+edit_properties#:#Einstellungen Bearbeiten
+title#:#Titel
+description#:#Beschreibung
+include_deleted#:#Gelösche Kurse anzeigen
+include_offline#:#Kurse die offline sind einbeziehen
+limit_page#:#Anzahl Kurse pro Seite
+save#:#Speichern
+cancel#:#Abbrechen
+edit#:#Bearbeiten
+status#:#Status
+offline#:#Offline
+Parent Path Check_plugin_configuration#:#Plugin Konfiguration
+setting_1#:#Setting 1
+setting_2#:#Setting 2
+saving_invoked#:#Save procedure has been executed. Please note that this Parent Path Check does not save anything to DB.
+error_onlydigit#:#Bitte eine Zahl eingeben.
+previous#:#Vorherige
+next#:#Nächste
+jump_page#:#Zur Seite springen

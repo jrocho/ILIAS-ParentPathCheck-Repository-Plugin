@@ -1,0 +1,43 @@
+// 
+// English Language File for Parent Path CheckObject Plugin
+//
+
+<!-- language file start -->
+obj_xppc#:#Parent Path Check
+objs_xppc#:#Parent Path Checks
+obj_xppc_duplicate#:#Copy
+objs_xppc_duplicate#:#Copy Parent Path Check
+obj_xppc_select#:#Select Parent Path Check
+xppc_add#:#Add Parent Path Check
+xppc_new#:#Add New Parent Path Check
+xppc_read#:#Read access to Parent Path Check
+xppc_write#:#Edit Parent Path Check
+xppc_delete#:#Delete Parent Path Check
+xppc_visible#:#Parent Path Check is visible
+xppc_edit_permission#:#Change permission settings
+crs_create_xppc#:#Create Parent Path Check
+grp_create_xppc#:#Create Parent Path Check
+fold_create_xppc#:#Create Parent Path Check
+root_create_xppc#:#Create Parent Path Check
+cat_create_xppc#:#Create Parent Path Check
+content#:#Content
+properties#:#Properties
+edit_properties#:#Edit Properties
+title#:#Title
+description#:#Description
+include_deleted#:#Show deleted courses
+include_offline#:#Show offline courses
+limit_page#:#Number of courses per page
+save#:#Save
+cancel#:#Cancel
+edit#:#Edit
+status#:#Status
+offline#:#Offline
+Parent Path Check_plugin_configuration#:#Exampl Plugin Configuration
+setting_1#:#Setting 1
+setting_2#:#Setting 2
+saving_invoked#:#Save procedure has been executed. Please note that this Parent Path Check does not save anything to DB.
+error_onlydigit#:#Please enter a number.
+previous#:#Previous
+next#:#Next
+jump_page#:#Jump to Page
