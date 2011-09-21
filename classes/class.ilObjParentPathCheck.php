@@ -59,7 +59,7 @@ class ilObjParentPathCheck extends ilObjectPlugin
 		global $ilDB;
 		
 		$ilDB->manipulate("INSERT INTO rep_robj_xppc_data ".
-			"(id, is_online, include_deleted, include_offline, limit) VALUES (".
+			"(id, is_online, include_deleted, include_offline, `limit`) VALUES (".
 			$ilDB->quote($this->getId(), "integer").",".
 			$ilDB->quote(0, "integer").",".
 			$ilDB->quote(0, "integer").",".
